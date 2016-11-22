@@ -11,11 +11,11 @@ Apple provides a specification for a REST-style web service protocol to communic
 
 ## Installation
 
-Execute SQL file database.sql
-Copy your certificate pem file in the directory "certificates"
-Update the web/config.php with your login/pass...
+- Execute SQL file database.sql
+- Copy your certificate pem file in the directory "certificates"
+- Update the web/config.php with your login/pass...
 
 ## Requirement
 
-Activate URL Rewriting in your server (for test use https://yourserver.net/index.php/hello/world if display Hello world it's ok)
-HTTPS for a production environment
+- Activate URL Rewriting in your server (for test use https://yourserver.net/index.php/hello/world if display Hello world it's  ok)
+- HTTPS for a production environment
